@@ -2,4 +2,4 @@ n=int(input("enter pocket money "))
 c=int(input("enter price of choclate "))
 m=int(input("enter no.of wrappers"))
 choclate=(n//c)+m
-print("no. of choclates bob going to eat",choclate)
+print("no. of choclates he's going to eat",choclate)
